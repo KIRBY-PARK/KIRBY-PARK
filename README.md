@@ -56,6 +56,7 @@ I want to solve all the unexpected situations find.
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows_11-008080?style=for-the-badge&logo=windows-95&logoColor=white)
 
+***
 
 ### GitHub Status
 |                                                                                        Languages                                                                                         |                                               GitHub Stats                                               |
