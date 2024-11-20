@@ -8,16 +8,12 @@ A little bit about me:
 I love learning and I'm calm and thoughtful and a little tactile when I find a problem.<br>
 I want to solve all the unexpected situations find.
 
-![](https://ifh.cc/g/oWGFOx.jpg)
-
-<br>
 
 ### Contact:
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<br>
 
 ### Languages, Framework and Libraries:
 
@@ -45,8 +41,6 @@ I want to solve all the unexpected situations find.
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br>
-
 ### 소통 & Social
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
@@ -59,8 +53,6 @@ I want to solve all the unexpected situations find.
 ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
-<br>
-
 ### OS
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -68,7 +60,6 @@ I want to solve all the unexpected situations find.
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows_11-008080?style=for-the-badge&logo=windows-95&logoColor=white)
 
-<br>
 
 ### GitHub Status
 <ul style="display: flex; width: 100%; align-items: center; list-style: none;">
