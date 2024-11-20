@@ -1,10 +1,9 @@
 ## Kirby-park
 
-Hi, I'm a computer engineering student.<br>
-I'm working on web publishing and backend development!
+Hi, I'm a computer engineering student. 🖍️<br>
+I'm working on web publishing and backend development 💻
 
-A little bit about me:
-
+### A little bit about me:
 I love learning and I'm calm and thoughtful and a little tactile when I find a problem.<br>
 I want to solve all the unexpected situations find.
 
@@ -27,9 +26,6 @@ I want to solve all the unexpected situations find.
 |![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)||
 |![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)||
 |![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)||
-
-
-<br>
 
 ### Languages, Framework and Libraries Learning:
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -62,29 +58,6 @@ I want to solve all the unexpected situations find.
 
 
 ### GitHub Status
-<ul style="display: flex; width: 100%; align-items: center; list-style: none;">
-<li style="width: 45%;"><img src="https://github-readme-stats.vercel.app/api?username=KIRBY-PARK&show_icons=true&theme=radical"></li>
-
-<li style="margin: 0 0 0 10px; width: 55%;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIRBY-PARK&layout=compact&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</li>
-</ul>
-
-<!--
-**KIRBY-PARK/KIRBY-PARK** is a 
-✨ _special_ ✨ repository because its `README.md` 
-(this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|                                                                                        Languages                                                                                         |                                               GitHub Stats                                               |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIRBY-PARK&layout=compact&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://github-readme-stats.vercel.app/api?username=KIRBY-PARK&show_icons=true&theme=radical"> |
